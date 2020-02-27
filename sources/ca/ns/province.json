@@ -11,6 +11,7 @@
     "conform": {
         "number": "civicnum",
         "street": ["strprefix", "strname", "strdir", "strsuffix"],
+        "unit": "unit_num",
         "city": "comm",
         "district": "county",
         "format": "shapefile"
