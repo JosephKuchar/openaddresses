@@ -28,8 +28,12 @@
                 "conform": {
                     "format": "geojson",
                     "number": "STREET_NUM",
-                    "street": "STREET_NAME"
-                }
+                    "street": "STREET_NAME",
+                    
+                    "str_name": "STREET_NAME",
+                    "str_type": "STREET_TYPE"
+                },
+                
             }
         ]
     }
