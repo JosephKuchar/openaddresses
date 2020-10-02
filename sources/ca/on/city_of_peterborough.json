@@ -35,7 +35,12 @@
                         "DIRECTION"
                     ],
                     "unit": "BLDG_UNIT",
-                    "city": "MUNICIPALITY"
+                    "city": "MUNICIPALITY",
+
+                    "str_name": "STREETNAME",
+                    "str_type": "STREETTYPE_DESC",
+                    "str_dir": "DIRECTION",
+                    "full_addr": "ADDRESS"
                 }
             }
         ]
