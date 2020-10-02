@@ -33,7 +33,11 @@
                     "street": "STREET",
                     "unit": "UNIT",
                     "postcode": "POSTAL_COD",
-                    "city": "MUNICIP"
+                    "city": "MUNICIP",
+
+                    "str_name": "street_body_name",
+                    "str_type": "street_type_suffix",
+                    "str_dir": "direction_suffix"
                 }
             }
         ]
