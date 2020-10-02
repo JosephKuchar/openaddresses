@@ -22,7 +22,12 @@
                     "number": "address",
                     "street": "roadname",
                     "format": "shapefile"
-                }
+                },
+
+                    "str_name": "STN",
+                    "str_type": "STS",
+                    "str_dir": "POD",
+                    "full_addr": "FULLADDR"
             }
         ]
     }
