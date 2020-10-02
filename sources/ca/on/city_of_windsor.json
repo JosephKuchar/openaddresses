@@ -28,7 +28,12 @@
                         "SUFFIX",
                         "DIRECTION"
                     ],
-                    "format": "shapefile-polygon"
+                    "format": "shapefile-polygon",
+
+                    "str_name": "STREET",
+                    "str_type": "SUFFIX",
+                    "str_dir": "DIRECTION",
+                    "full_addr": "ADD_RANGE"
                 }
             }
         ]
