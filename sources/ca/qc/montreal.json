@@ -35,7 +35,11 @@
                     "lon": "LON",
                     "lat": "LAT",
                     "file": "Montreal.csv",
-                    "format": "csv"
+                    "format": "csv",
+
+                    "str_name": "SPECIFIQUE",
+                    "str_type": "GENERIQUE",
+                    "str_dir": "ORIENTATIO"
                 }
             }
         ]
