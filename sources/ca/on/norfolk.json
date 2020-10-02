@@ -26,7 +26,11 @@
                         "Bell_Suf",
                         "Bell_Dir"
                     ],
-                    "unit": "UnitNumber"
+                    "unit": "UnitNumber",
+
+                    "str_name": "Bell_Name",
+                    "str_type": "Bell_Suf",
+                    "str_dir": "Bell_Dir"
                 }
             }
         ]
