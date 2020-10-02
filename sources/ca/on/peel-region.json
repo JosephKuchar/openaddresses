@@ -17,7 +17,7 @@
             {
                 "name": "region",
                 "data": "https://services6.arcgis.com/ONZht79c8QWuX759/arcgis/rest/services/Address_Points/FeatureServer/0",
-                "website": "https://data.peelregion.ca/",
+                "website": "https://data.peelregion.ca/datasets/address-points/data",
                 "license": {
                     "url": "https://data.peelregion.ca/pages/license",
                     "attribution": false,
@@ -39,7 +39,11 @@
                     "city": "MUNICIPALITY",
                     "lat": "LATITUDE",
                     "lon": "LONGITUDE",
-                    "accuracy": 1
+                    "accuracy": 1,
+
+                    "str_name": "STREETNAME",
+                    "str_type": "STREETTYPE",
+                    "str_dir": "STREETDIRECTION"
                 }
             }
         ]
