@@ -25,7 +25,9 @@
                     "number": "HOUSE",
                     "street": "STREET",
                     "unit": "UNIT",
-                    "format": "shapefile"
+                    "format": "shapefile",
+
+                    "full_addr": "Address"
                 }
             }
         ]
