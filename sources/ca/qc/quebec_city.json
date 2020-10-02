@@ -22,7 +22,12 @@
                 "street": {
                     "function": "postfixed_street",
                     "field": "RECHERCHE"
-                  }
+                  },
+
+                    "str_name": "NOM_VOIE",
+                    "str_type": "TYPE_VOIE",
+                    "str_dir": "ORIENTATIO",
+                    "full_addr": "RECHERCHE"
                 }
             }
         ]
