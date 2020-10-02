@@ -30,7 +30,12 @@
                     ],
                     "unit": "UNIT",
                     "city": "CITY",
-                    "postcode": "ZIP_POSTAL"
+                    "postcode": "ZIP_POSTAL",
+
+                    "str_name": "STREET",
+                    "str_type": "SUFFIX",
+                    "str_dir": "DIRECTION",
+                    "full_addr": "FORMATTED_ADDR"
                 }
             }
         ]
