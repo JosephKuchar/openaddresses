@@ -16,7 +16,9 @@
                     "format": "geojson",
                     "number": "Street_Num",
                     "street": "Street_Name",
-                    "unit": "Qualifier"
+                    "unit": "Qualifier",
+                    
+                    "id": "OBJECTID"
                 },
                 "note": "Token Required - http://countyofrenfrew.geocortex.com/SilverlightViewer/Viewer.html?Viewer=CountyOfRenfrewPublic"
             }
