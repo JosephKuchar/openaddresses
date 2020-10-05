@@ -29,7 +29,9 @@
                         "function": "postfixed_street",
                         "field": "Location"
                     },
-                    "city": "Municipality"
+                    "city": "Municipality",
+                    "id": "OBJECTID",
+                    "full_addr": "Location"
                 }
             }
         ]
