@@ -20,7 +20,12 @@
                         "TYPE",
                         "DIRECTION"
                     ],
-                    "unit": "UNIT_NBR"
+                    "unit": "UNIT_NBR",
+                    
+                    "id": "OBJECTID",
+                    "str_name": "NAME",
+                    "str_type": "TYPE",
+                    "str_dir": "DIRECTION"
                 }
             }
         ]
