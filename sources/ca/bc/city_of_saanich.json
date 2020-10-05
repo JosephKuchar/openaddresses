@@ -41,7 +41,13 @@
                         "STREETNAME",
                         "STREETTYPE",
                         "STREETDIRSUFFFIX"
-                    ]
+                    ],
+                    
+                    "id": "FACILITYID",
+                    "str_name": "STREETNAME",
+                    "str_type": "STREETTYPE",
+                    "str_dir": "STREETDIRSUFFFIX",
+                    "full_addr": "ADDRESS"
                 }
             }
         ]
