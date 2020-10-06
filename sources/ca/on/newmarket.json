@@ -23,7 +23,8 @@
                     "unit": "STREET_UNIT",
                     "number": "STREET_NO",
                     "street": "STREET_NAME",
-                    "postcode": "PCODE"
+                    "postcode": "PCODE",
+                    "id": "OBJECTID"
                 }
             }
         ]
