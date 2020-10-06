@@ -22,7 +22,9 @@
                 "conform": {
                     "format": "geojson",
                     "number": "CIVIC_NUM",
-                    "street": "STREET"
+                    "street": "STREET",
+                    "id": "FID",
+                    "full_addr": "StreetMerg"
                 }
             }
         ]
