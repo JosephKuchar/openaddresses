@@ -15,7 +15,8 @@
                     "format": "geojson",
                     "number": "Street_Number",
                     "street": "Street_Name",
-                    "unit": "Unit_Number"
+                    "unit": "Unit_Number",
+                    "id": "OBJECTID"
                 },
                 "note": "Token Required - http://www.prescott-russell.on.ca/en/planning/cartography-a-geomatics"
             }
