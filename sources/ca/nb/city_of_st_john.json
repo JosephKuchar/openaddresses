@@ -25,7 +25,12 @@
                     "street": [
                         "Street_Name",
                         "English_Designator"
-                    ]
+                    ],
+                    
+                    "id": "OBJECTID",
+                    "str_name": "Street_Nam",
+                    "str_type": "English_De",
+                    "full_addr": "ENCIVSTNAM"
                 }
             }
         ]
