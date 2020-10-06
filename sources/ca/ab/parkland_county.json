@@ -40,7 +40,8 @@
 
                     "str_name": "NAME",
                     "str_type": "TYPE",
-                    "str_dir": "SUFFIX"
+                    "str_dir": "SUFFIX",
+                    "id": "FID"
                 }
             }
         ]
