@@ -30,7 +30,8 @@
 
                     "str_name": "Bell_Name",
                     "str_type": "Bell_Suf",
-                    "str_dir": "Bell_Dir"
+                    "str_dir": "Bell_Dir",
+                    "id": "FID"
                 }
             }
         ]
