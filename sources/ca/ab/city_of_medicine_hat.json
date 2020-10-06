@@ -34,7 +34,13 @@
                         "DIRECTION"
                     ],
                     "unit": "APT_NB",
-                    "postcode": "POSTALCODE"
+                    "postcode": "POSTALCODE",
+                    
+                    "id": "OBJECTID",
+                    "str_name": "NAME",
+                    "str_type": "SSTYPE",
+                    "str_dir": "DIRECTION",
+                    "full_addr": "LOCATION"
                 }
             }
         ]
