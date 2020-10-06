@@ -33,7 +33,10 @@
                         "pattern": "^(?:\\S+ )(.*)",
                         "replace": "$1"
                     },
-                    "format": "shapefile-polygon"
+                    "format": "shapefile-polygon",
+                    
+                    "id": "OBJECTID",
+                    "full_addr": "ADDRESS"
                 }
             }
         ]
