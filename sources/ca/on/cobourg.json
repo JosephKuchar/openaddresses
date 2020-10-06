@@ -15,7 +15,10 @@
                 "conform": {
                     "number": "STREET_NO",
                     "street": "STREET_NAM",
-                    "format": "geojson"
+                    "format": "geojson",
+                    
+                    "id": "OBJECTID",
+                    "full_addr": "COMPLETE_A"
                 }
             }
         ]
