@@ -36,7 +36,11 @@
                         "UNITTYPE",
                         "UNIT"
                     ],
-                    "postcode": "POSTAL"
+                    "postcode": "POSTAL",
+
+                    "str_name": "STREET",
+                    "str_type": "STREETTYPE",
+                    "full_addr": "ADDRESS"
                 }
             }
         ]
