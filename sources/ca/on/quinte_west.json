@@ -23,7 +23,7 @@
                     "unit": "unit_num",
                     "number": "address_nu",
                     "street": "street_nam",
-                    "id": "objectid_1"
+                    "id": "objectid_1",
                     "format": "geojson"
                 }
             }
