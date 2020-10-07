@@ -36,7 +36,12 @@
                     "unit": [
                         "UNITTYPE",
                         "UNIT"
-                    ]
+                    ],
+
+                    "str_name": "STREET",
+                    "str_type": "STRTYPE",
+                    "str_dir": "STRDIR",
+                    "full_addr": "ADDRESS"
                 }
             }
         ]
