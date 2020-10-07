@@ -28,7 +28,11 @@
                         "StreetType"
                     ],
                     "city": "Municipali",
-                    "format": "shapefile"
+                    "format": "shapefile",
+                    "str_name": "StreetName",
+                    "str_type": "StreetType",
+                    "str_dir": "StreetDir",
+                    "id": "GSmartID"
                 }
             }
         ]
