@@ -14,7 +14,10 @@
                 "conform": {
                     "format": "geojson",
                     "number": "ADD1",
-                    "street": "STREETNAME"
+                    "street": "STREETNAME",
+                    
+                    "id": "OBJECTID",
+                    "full_addr": "MAILADD1"
                 }
             }
         ]
