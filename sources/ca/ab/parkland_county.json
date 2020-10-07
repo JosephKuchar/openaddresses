@@ -36,7 +36,12 @@
                       ],
                     "unit": "SUITE",
                     "city": "COMMUNITY",
-                    "region": "PROV"
+                    "region": "PROV",
+
+                    "str_name": "NAME",
+                    "str_type": "TYPE",
+                    "str_dir": "SUFFIX",
+                    "id": "FID"
                 }
             }
         ]
