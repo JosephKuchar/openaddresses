@@ -25,7 +25,9 @@
                     "number": "StreetNumb",
                     "street": "StreetName",
                     "unit": "StreetUnit",
-                    "format": "shapefile"
+                    "format": "shapefile",
+
+                    "full_addr": "Location"
                 }
             }
         ]
