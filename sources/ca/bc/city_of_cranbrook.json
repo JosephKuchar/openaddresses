@@ -28,7 +28,13 @@
                         "STREET_DIR"
                     ],
                     "unit": "UNIT_NUMBE",
-                    "city": "LOCALITY"
+                    "city": "LOCALITY",
+                    
+                    "id": "OBJECTID",
+                    "str_name": "STREET_NAM",
+                    "str_type": "STREET_TYP",
+                    "str_dir": "STREET_DIR",
+                    "full_addr": "FULL_ADDRE"
                 }
             }
         ]
