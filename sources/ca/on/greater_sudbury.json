@@ -29,7 +29,8 @@
                     },
                     "city": "COMMUNITY",
                     
-                    "full_addr": "FULLADDRESSTEXT"
+                    "full_addr": "FULLADDRESSTEXT",
+                    "id": "OBJECTID"
                 }
             }
         ]
