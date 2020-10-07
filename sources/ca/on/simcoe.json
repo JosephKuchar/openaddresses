@@ -23,7 +23,10 @@
                     "format": "geojson",
                     "number": "STNUM",
                     "street": "FULLNAME",
-                    "city": "MUNI"
+                    "city": "MUNI",
+                    
+                    "id": "OBJECTID",
+                    "full_addr": "FULL_ADDRESS"
                 }
             }
         ]
