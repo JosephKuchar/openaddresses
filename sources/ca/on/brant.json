@@ -30,7 +30,8 @@
                         "STREET_DIRECTION_PREFIX",
                         "STREET_DIRECTION_SUFFIX"
                         ],
-                    "full_addr": "FULL_ADDRESS"
+                    "full_addr": "FULL_ADDRESS",
+                    "id": "OBJECTID"
                 }
             }
         ]
