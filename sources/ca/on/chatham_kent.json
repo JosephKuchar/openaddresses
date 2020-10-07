@@ -21,7 +21,12 @@
                         "DIRECTION"
                     ],
                     "unit": "UNIT",
-                    "city": "COMMUNITY"
+                    "city": "COMMUNITY",
+                    
+                    "id": "FID",
+                    "str_name": "NAME",
+                    "str_type": "TYPE",
+                    "str_dir": "DIRECTION"
                 }
             }
         ]
