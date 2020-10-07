@@ -40,7 +40,12 @@
                         "unit_number",
                         "unit_number_suffix"
                     ],
-                    "city": "locality"
+                    "city": "locality",
+
+                    "str_name": "street_name",
+                    "str_type": "street_type",
+                    "str_dir": "street_dir_suffix",
+                    "full_addr": "full_address"
                 }
             }
         ]
