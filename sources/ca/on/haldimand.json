@@ -35,7 +35,8 @@
                     "street": {
                         "function": "postfixed_street",
                         "field": "StreetAddr"
-                    }
+                    },
+                    "id": "OBJECTID_1"
                 }
             }
         ]
