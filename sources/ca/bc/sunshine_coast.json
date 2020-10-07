@@ -39,7 +39,13 @@
                         "STR_DR_SUF"
                     ],
                     "city": "LOCALITY",
-                    "postcode": "POST_CODE"
+                    "postcode": "POST_CODE",
+                    
+                    "id": "OBJECTID",
+                    "str_name": "STR_NAME",
+                    "str_type": "STR_TYPE",
+                    "str_dir": "STR_DR_SUF",
+                    "full_addr": "FULL_ADD"
                 }
             }
         ]
