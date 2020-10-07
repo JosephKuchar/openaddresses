@@ -38,7 +38,8 @@
                     "str_name": "STREETTYPEPRE",
                     "str_type": "STREETTYPE",
                     "str_dir": "STREETDIRSUFF",
-                    "full_addr": "FULLSTREETNAME"
+                    "full_addr": "FULLSTREETNAME",
+                    "id": "OBJECTID"
                 },
                 "attribution": "County of Grand Prairie No. 1"
             }
