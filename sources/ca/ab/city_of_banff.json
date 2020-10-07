@@ -26,7 +26,9 @@
                     "format": "shapefile",
                     "number": "STREET_NUM",
                     "street": "STREET_NAM",
-                    "unit": "SUITE"
+                    "unit": "SUITE",
+                    
+                    "full_addr": "FULL_ADDRE"
                 }
             }
         ]
