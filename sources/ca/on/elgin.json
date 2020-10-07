@@ -17,7 +17,8 @@
                     "unit": "StrUNIT",
                     "number": "StrNUM",
                     "street": "StrFULL",
-                    "city": "MUNI"
+                    "city": "MUNI",
+                    "id": "OBJECTID"
                 }
             }
         ]
