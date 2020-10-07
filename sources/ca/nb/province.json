@@ -32,7 +32,9 @@
                     "district": "district",
                     "lon": "x_coordina",
                     "lat": "y_coordina",
-                    "format": "shapefile"
+                    "format": "shapefile",
+
+                    "str_name": "street_nam"
                 }
             }
         ]
