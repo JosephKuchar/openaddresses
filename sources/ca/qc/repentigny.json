@@ -31,7 +31,11 @@
                     ],
                     "unit": "NUMEROAPPART",
                     "street": "NOMRUECOMPLET",
-                    "postcode": "CODEPOSTAL"
+                    "postcode": "CODEPOSTAL",
+
+                     "str_name": "SPECIFIQUE",
+                     "str_type": "ODONYME",
+                     "full_addr": "ADRESSECOMPLETE"
                 }
             }
         ]
