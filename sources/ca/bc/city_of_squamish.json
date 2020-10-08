@@ -32,7 +32,9 @@
                     "unit": "UNIT_NUMBER",
                     "city": "LOCALITY",
                     "lat": "LATITUDE",
-                    "lon": "LONGITUDE"
+                    "lon": "LONGITUDE",
+
+                    "full_addr": "FULL_ADDRESS"
                 }
             }
         ]
