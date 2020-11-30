@@ -40,7 +40,10 @@
                     "str_name": "NAME",
                     "str_type": "SSTYPE",
                     "str_dir": "DIRECTION",
-                    "full_addr": "LOCATION"
+                    "full_addr": {
+                        "function": "remove_postfix",
+                        "field": "LOCATION",
+                        "field_to_remove": "CITYCODE"
                 }
             }
         ]
