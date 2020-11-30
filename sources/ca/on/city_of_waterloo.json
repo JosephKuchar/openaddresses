@@ -26,13 +26,13 @@
                 },
                 "protocol": "ESRI",
                 "conform": {
-                    "number": "CIVIC_ADDR",
-                    "street": "STREET_NM",
+                    "number": "CIVIC_NO",
+                    "street": "STREET",
+                    "unit": "UNIT",
                     "format": "geojson",
                     "id": "OBJECTID"
                 },
-                "skip": true,
-                "note": "ESRI open data portal source - file generated dynamically and not consistently cached on demand"
+
             }
         ]
     }
