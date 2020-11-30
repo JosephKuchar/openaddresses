@@ -30,7 +30,7 @@
                 "conform": {
                     "format": "geojson",
                     "id": "AID",
-                    "number": "Building_N",
+                    "number": "Street_Num",
                     "unit": "Unit_No",
                     "street": "Street_Nam",
                    
