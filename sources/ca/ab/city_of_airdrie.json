@@ -30,7 +30,6 @@
                     "number": "CivicNum",
                     "street": "FullStreet",
                     "unit": "UnitNum",
-                    "city": "Community",
                     
                     "str_name": "StreetName",
                     "str_type": "StreetType",
