@@ -30,7 +30,9 @@
                     "format": "shapefile",
                     "number": "house_id",
                     "unit": "unit_num",
-                    "street": "name"
+                    "street": "name",
+                    "str_type": "road_type",
+                    "str_name": "main_name"
                 }
             }
         ]
