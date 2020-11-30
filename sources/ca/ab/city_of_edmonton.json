@@ -31,7 +31,7 @@
                     "lat": "Latitude",
                     "lon": "Longitude",
                     "number": "House Number",
-                    "unit": "Suite",
+                    "unit": "Sub Address",
                     "street": "Street Name"
                 }
             }
