@@ -22,8 +22,7 @@
                     "unit": "UnitNumber",
                     
                     "id": "OBJECTID",
-                    "str_name": "StreetName",
-                    "str_type": "StreetType",
+
                     "full_addr": "FullAddress"
                 }
             }
