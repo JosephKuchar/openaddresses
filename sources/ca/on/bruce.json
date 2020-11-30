@@ -18,13 +18,15 @@
                     "attribution": true,
                     "share-alike": false
                 },
-                "protocol": "ESRI",
+                "protocol": "http",
+                "compression": "zip",
                 "conform": {
-                    "format": "geojson",
+                    "format": "shapefile",
                     "number": "AddrNum",
                     "street": "RoadName",
                     "unit": "Unit",
-                    "city": "Municipality"
+                    "city": "Municipali",
+                    "full_addr": "CivicAddre"
                 }
             }
         ]
