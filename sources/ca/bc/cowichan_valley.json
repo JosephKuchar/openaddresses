@@ -29,10 +29,11 @@
                     "format": "shapefile",
                     "number": "AddressNum",
                     "street": "RoadName"
+                    "full_addr": "FullAddres",
+                    "id": "PID"
                 },
                 
-                "full_addr": "FullAddres",
-                "id": "PID"
+
             }
         ]
     }
