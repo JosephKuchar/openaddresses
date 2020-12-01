@@ -47,6 +47,7 @@
                     "region": "Province",
 
                     "str_name": "StrName",
+                    "full_addr": "FullName",
                     "str_type": "StrType",
                     "str_dir": "StrSuffix"
                 }
