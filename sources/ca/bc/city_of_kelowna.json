@@ -29,14 +29,14 @@
                 "conform": {
                     "format": "geojson",
                     "number": {
-                        "function": "regexp",
-                        "field": "FULL_ADD",
-                        "pattern": "^((?:[\\d]+[\\- ])?[\\d]+[A-Z]?).*$"
+                        "function": "format",
+                        "fields": ["STR_NO_PRE","STR_NO","STR_NO_SUF"]
+                        "format": "$1 $2$3"
                     },
                     "street": {
-                        "function": "regexp",
-                        "field": "FULL_ADD",
-                        "pattern": "^(?:(?:[\\d]+[\\- ])?[\\d]+[A-Z]?\\s+)(.*)"
+                        "function": "format",
+                        "fields": ["STR_NAME","STR_TYPE","STR_DR_SUF"]
+                        "format": "$1 $2 $3"
                     },
                     
                     "str_name": "STR_NAME",
