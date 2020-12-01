@@ -30,15 +30,10 @@
                     "format": "geojson",
                     "number": {
                         "function": "format",
-                        "fields": ["STR_NO_PRE","STR_NO","STR_NO_SUF"]
+                        "fields": ["STR_NO_PRE","STR_NO","STR_NO_SUF"],
                         "format": "$1 $2$3"
                     },
-                    "street": {
-                        "function": "format",
-                        "fields": ["STR_NAME","STR_TYPE","STR_DR_SUF"]
-                        "format": "$1 $2 $3"
-                    },
-                    
+                    "street": ["STR_NAME","STR_TYPE","STR_DR_SUF"],
                     "str_name": "STR_NAME",
                     "str_type": "STR_TYPE",
                     "str_dir": "STR_DR_SUF",
