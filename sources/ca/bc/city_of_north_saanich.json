@@ -21,7 +21,11 @@
                 "conform": {
                     "format": "geojson",
                     "id": "ADDRESS_ID",
-                    "number": "STREET_NUMBER",
+                    "number": {
+                        "function": "format",
+                        "fields": ["STR_NUMBER_PREFIX","STR_NUMBER","STR_NUMBER_SUFFIX"],
+                        "format": "$1 $2$3"
+                    },
                     "street": [
                         "STREET_NAME",
                         "STREET_TYPE",
