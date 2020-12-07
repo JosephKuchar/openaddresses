@@ -27,7 +27,8 @@
                     "unit": "StreetUnit",
                     "format": "shapefile",
 
-                    "full_addr": "Location"
+                    "full_addr": "Location",
+                    "city": "Municipali"
                 }
             }
         ]
