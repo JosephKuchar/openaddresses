@@ -40,6 +40,7 @@
                     ],
                     
                     "id": "OBJECTID",
+                    "city": "MUNICIPALITY",
                     "str_name": "STREET_NAME",
                     "str_type": "STREET_TYPE",
                     "str_dir": "SUFFIX_DIRECTION",
