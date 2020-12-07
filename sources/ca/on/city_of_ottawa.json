@@ -32,7 +32,8 @@
                     "number": "ADDRNUM",
                     "street": "FULLNAME",
 
-                    "full_addr": "FULLADDR"
+                    "full_addr": "FULLADDR",
+                    "unit": "UNITID"
                 }
             }
         ]
