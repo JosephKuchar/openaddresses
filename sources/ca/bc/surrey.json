@@ -9,13 +9,12 @@
         "addresses": [
             {
                 "name": "city",
-                "data": "http://cosmos.surrey.ca/geo_ref/Images/OpenDataArchives/addresses_GDB.zip",
-                "website": "http://data.surrey.ca/",
-                "license": "Open Government License",
+                "data": "https://data.surrey.ca/datastore/dump/141da8d6-7625-42ab-a209-cee8bcebd475?bom=True",
+                "website": "https://data.surrey.ca/dataset/addresses/resource/141da8d6-7625-42ab-a209-cee8bcebd475",
+                "license": "https://data.surrey.ca/pages/open-government-licence-surrey",
                 "protocol": "http",
                 "conform": {
-                    "format": "gdb",
-                    "layer": "Address_Points",
+                    "format": "csv",
                     "number": "STREET_NUMBER",
                     "street": [
                         "STREET_DIR_PREFIX",
@@ -23,7 +22,13 @@
                         "STREET_TYPE",
                         "STREET_DIR_SUFFIX"
                     ],
-                    "city": "LOCALITY"
+                    "city": "LOCALITY",
+                    "full_addr": "FULL_ADDRESS",
+                    "str_name": "STREET_NAME",
+                    "str_type": "STREET_TYPE",
+                    "str_dir": "STREET_DIR_SUFFIX",
+                    "lat": "Latitude",
+                    "lon": "Longitude"
                 }
             }
         ]
