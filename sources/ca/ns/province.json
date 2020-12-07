@@ -27,18 +27,17 @@
                         "CIVSUFFIX"
                     ],
                     "street": [
-                        "strprefix",
-                        "strname",
-                        "strdir",
-                        "strsuffix"
+                        "STRPREFIX",
+                        "STRNAME",
+                        "STRDIR",
+                        "STRSUFFIX"
                     ],
-                    "unit": "unit_num",
-                    "city": "comm",
-                    "district": "county",
+                    "unit": "UNIT_NUM",
+                    "city": "COMM",
 
-                    "str_name": "strname",
-                    "str_type": "strsuffix",
-                    "str_dir": "strdir"
+                    "str_name": "STRNAME",
+                    "str_type": "STRSUFFIX",
+                    "str_dir": "STRDIR"
                 }
             }
         ]
