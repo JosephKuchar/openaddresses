@@ -41,7 +41,8 @@
                     "str_name": "STREET",
                     "str_type": "STRTYPE",
                     "str_dir": "STRDIR",
-                    "full_addr": "ADDRESS"
+                    "full_addr": "ADDRESS",
+                    "city": "CITY"
                 }
             }
         ]
