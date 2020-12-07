@@ -24,6 +24,7 @@
                     "share-alike": false
                 },
                 "protocol": "http",
+                "compression": "zip",
                 "conform": {
                     "format": "shapefile",
                     "number": "NOCIVIQUE",
@@ -31,12 +32,12 @@
                         "TYPE_VOIE",
                         "LIEN_VOIE",
                         "NOM_VOIE",
-                        "ORIENTATION"
+                        "ORIENTATIO"
                     ],
 
                      "str_name": "NOM_VOIE",
                      "str_type": "TYPE_VOIE",
-                     "str_dir": "ORIENTATION",
+                     "str_dir": "ORIENTATIO",
                      "full_addr": "ADRESSE"
                 }
             }
