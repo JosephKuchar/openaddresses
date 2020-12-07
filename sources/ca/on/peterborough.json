@@ -35,6 +35,7 @@
                         "DIRECTION"
                         ],
                     "city": "MUNICIPALITY",
+                    "unit": "BLDG_UNIT",
 
                     "str_name": "STREETNAME",
                     "str_type": "STREETTYPE_DESC",
