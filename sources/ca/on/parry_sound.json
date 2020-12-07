@@ -16,7 +16,8 @@
                     "number": "CivicNumber",
                     "street": "CivicAddress",
                     "unit": "CivicUnit",
-                    "city": "Municipality"
+                    "city": "Municipality",
+                    "full_addr": "Civic_FullAddress"
                 }
             }
         ]
