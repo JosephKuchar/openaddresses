@@ -25,7 +25,11 @@
                         "STREET_TYP",
                         "STREET_DIR"
                     ],
-                    "unit": "UNIT"
+                    "unit": "UNIT",
+                    "str_name": "STREET_NAM",
+                    "str_type": "STREET_TYP",
+                    "str_dir": "STREET_DIR",
+                    "city": "MUNCODE"
                 }
             }
         ]
