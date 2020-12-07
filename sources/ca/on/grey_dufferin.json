@@ -15,7 +15,8 @@
                     "format": "geojson",
                     "number": "STREET_NUM",
                     "street": "FULL_STREE",
-                    "city": "MUNICIPALI"
+                    "city": "MUNICIPALI",
+                    "str_name": "STREET_NAM"
                 }
             }
         ]
