@@ -28,8 +28,8 @@
                     ],
                     
                     "id": "OBJECTID",
-                    "str_name": "Street_Nam",
-                    "str_type": "English_De",
+                    "str_name": "Street_Name",
+                    "str_type": "English_Designator",
                     "full_addr": "ENCIVSTNAM"
                 }
             }
