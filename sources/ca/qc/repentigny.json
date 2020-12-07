@@ -22,7 +22,7 @@
                 "protocol": "http",
                 "conform": {
                     "format": "csv",
-                    "encoding": "iso-8859-3",
+                    "encoding": "ascii",
                     "lat": "LATITUDE",
                     "lon": "LONGITUDE",
                     "number": [
