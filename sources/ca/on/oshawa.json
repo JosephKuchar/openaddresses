@@ -28,7 +28,6 @@
                 "protocol": "ESRI",
                 "conform": {
                     "format": "geojson",
-                    "unit": "UNIT",
                     "number": [
                       "CIVIC_NUM",
                       "CIVIC_SFX"
