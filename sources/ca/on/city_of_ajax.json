@@ -33,10 +33,10 @@
                         "DIRECTION"
                     ],
                     "unit": "UNITS",
-                    "city": "MUNICIPALITY",
+                    "city": "MUNICIPALI",
                     
                     "str_name": "STREET",
-                    "str_type": "STREET_TYPE",
+                    "str_type": "STREET_TYP",
                     "str_dir": "DIRECTION",
                     "full_addr": "FULL_ADDRE"
                 }
