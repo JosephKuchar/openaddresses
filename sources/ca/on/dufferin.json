@@ -23,6 +23,7 @@
                     "format": "geojson",
                     "number": "STREETNUM",
                     "street": "STREETNAME",
+                    "city": "TOWN",
                     
                     "full_addr": "FULLADDY",
                     "id": "FID"
