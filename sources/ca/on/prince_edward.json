@@ -17,13 +17,14 @@
                     "id": "SITEADDID",
                     "number": "ADDRNUM",
                     "street": "FULLNAME",
+                    "full_addr": "FULLADDR",
+
                     "unit": [
                         "UNITTYPE",
                         "UNITID"
                     ],
-                    "district": "MUNICIPALITY",
+                    "district": "MUNICIPALITY"
 
-                    "full_addr": "FULLADDR"
                 }
             }
         ]
