@@ -9,7 +9,7 @@
         "addresses": [
             {
                 "name": "county",
-                "data": "https://www.rdcogis.com/arcgis/rest/services/Basemaps/RDCO_Basemap/MapServer/4",
+                "data": "https://www.rdcogis.com/arcgis/rest/services/DataDownload/RDCO_Data_Download/MapServer/10",
                 "protocol": "ESRI",
                 "conform": {
                     "format": "geojson",
