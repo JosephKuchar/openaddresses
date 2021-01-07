@@ -16,7 +16,9 @@
         "addresses": [
             {
                 "name": "city",
+                "website": "https://opendata.pickering.ca/datasets/943eb76bbd604c29bd73567c8ab7bd80_0",
                 "data": "https://maps.pickering.ca/arcgisinter/rest/services/public/OpenData/MapServer/0",
+                "license": "https://www.pickering.ca/en/city-hall/resources/OpenDataLicencePickeringV1.pdf",
                 "protocol": "ESRI",
                 "conform": {
                     "format": "geojson",
