@@ -16,16 +16,21 @@
         "addresses": [
             {
                 "name": "city",
-                "data": "ftp://webftp.vancouver.ca/OpenData/shape/shape_property_information.zip",
-                "protocol": "ftp",
-                "compression": "zip",
+                "webpage": "https://opendata.vancouver.ca/explore/dataset/property-addresses/table/",
+                "data": "https://opendata.vancouver.ca/explore/dataset/property-addresses/download/?format=geojson&timezone=America/New_York&lang=en",
+                "license":{
+                    "url": "https://opendata.vancouver.ca/pages/licence/",
+                    "attribution name": "Open Government Licence – Vancouver",
+                    "attribution": true,
+                    "text": "Contains information licensed under the Open Government Licence – Vancouver."
+                },
+                "protocol": "http",
                 "conform": {
-                    "file": "property_addresses.shp",
-                    "number": "CIVIC_NO",
-                    "street": "STREETNAME",
-                    "format": "shapefile",
+                    "number": "civic_number",
+                    "street": "std_street",
+                    "format": "geojson",
                     
-                    "id": "SITE_ID"
+                    "id": "site_id"
                 }
             }
         ]
