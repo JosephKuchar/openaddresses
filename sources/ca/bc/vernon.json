@@ -65,7 +65,7 @@
                         "pattern": "^(?:\\S+ )(.*)",
                         "replace": "$1"
                     },
-                    full_addr: "FULL_ADDRE",
+                    "full_addr": "FULL_ADDRE",
                     "format": "shapefile"
                 }
             }
