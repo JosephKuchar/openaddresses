@@ -30,7 +30,9 @@
                     "number": "NUMBER",
                     "street": [
                         "GENERIQUE",
-                        "SPECIFIQUE"
+                        "LIEN",
+                        "SPECIFIQUE",
+                        "ORIENTATION"
                     ],
                     "lon": "LON",
                     "lat": "LAT",
@@ -39,7 +41,7 @@
 
                     "str_name": "SPECIFIQUE",
                     "str_type": "GENERIQUE",
-                    "str_dir": "ORIENTATIO"
+                    "str_dir": "ORIENTATION"
                 }
             }
         ]
