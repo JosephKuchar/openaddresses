@@ -16,7 +16,7 @@
         "addresses": [
             {
                 "name": "city",
-                "data": "https://data.openaddresses.io/cache/uploads/trescube/e8d8c2/vernon_civic_address_points.zip",
+                "data": "https://github.com/CSBP-CPSE/LODE-ECDO/raw/master/scripts/Addresses/vernon.zip",
                 "website": "https://www.vernon.ca/government-services/maps-gis/open-data-deep",
                 "license": {
                     "url": "https://www.vernon.ca/government-services/maps-gis/open-data-catalogue"
@@ -58,17 +58,14 @@
                 "protocol": "http",
                 "compression": "zip",
                 "conform": {
-                    "number": {
-                        "function": "regexp",
-                        "field": "full_addre",
-                        "pattern": "^(\\S+)"
-                    },
+                    "number": "STREET_NUM",
                     "street": {
                         "function": "regexp",
-                        "field": "full_addre",
+                        "field": "FULL_ADDRE",
                         "pattern": "^(?:\\S+ )(.*)",
                         "replace": "$1"
                     },
+                    full_addr: "FULL_ADDRE",
                     "format": "shapefile"
                 }
             }
