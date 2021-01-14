@@ -16,7 +16,7 @@
          "addresses": [
              {
                  "name": "city",
-                 "data": "http://wroms.whiterockcity.ca/opendata/GIS/Data/Spatial/Landbase/SHP/LandbaseSHP.zip",
+                 "data": "https://github.com/CSBP-CPSE/LODE-ECDO/raw/master/scripts/Addresses/whiterock.zip",
                  "website": "http://data.whiterockcity.ca/dataset/address",
                  "license": {
                      "url": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
@@ -27,7 +27,6 @@
                  "protocol": "http",
                  "compression": "zip",
                  "conform": {
-                     "file": "GIS/Data/Spatial/Landbase/SHP/Address.shp",
                      "format": "shapefile",
                      "number": "Addr_No",
                      "street": "Street",
