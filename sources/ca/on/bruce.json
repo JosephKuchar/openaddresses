@@ -18,10 +18,9 @@
                     "attribution": true,
                     "share-alike": false
                 },
-                "protocol": "http",
-                "compression": "zip",
+                "protocol": "esri",
                 "conform": {
-                    "format": "shapefile",
+                    "format": "geojson",
                     "number": "AddrNum",
                     "street": "RoadName",
                     "unit": "Unit",
