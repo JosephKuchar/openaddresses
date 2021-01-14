@@ -16,7 +16,7 @@
         "addresses": [
             {
                 "name": "city",
-                "data": "https://ckan0.cf.opendata.inter.prod-toronto.ca/download_resource/d918eb68-e077-4bb1-872b-59ebe265d016",
+                "data": "https://ckan0.cf.opendata.inter.prod-toronto.ca/download_resource/551fa348-f933-4e18-90c3-10322a524195",
                 "website": "https://open.toronto.ca/dataset/address-points-municipal-toronto-one-address-repository/",
                 "license": {
                     "url": "https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-licence/",
