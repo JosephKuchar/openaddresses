@@ -17,7 +17,8 @@
             {
                 "name": "city",
                 "webpage": "https://opendata.vancouver.ca/explore/dataset/property-addresses/table/",
-                "data": "https://opendata.vancouver.ca/explore/dataset/property-addresses/download/?format=geojson&timezone=America/New_York&lang=en",
+                "data": "https://github.com/CSBP-CPSE/LODE-ECDO/raw/master/scripts/Addresses/vancouver-property-addresses.zip",
+                "compression": "zip",
                 "license":{
                     "url": "https://opendata.vancouver.ca/pages/licence/",
                     "attribution name": "Open Government Licence – Vancouver",
@@ -28,7 +29,7 @@
                 "conform": {
                     "number": "civic_number",
                     "street": "std_street",
-                    "format": "geojson",
+                    "format": "shapefile",
                     
                     "id": "site_id"
                 }
