@@ -29,7 +29,7 @@
                 "compression": "zip",
                 "conform": {
                     "format": "shapefile",
-                    "unit": "[UNITID", "QUALIFIER"],
+                    "unit": ["UNITID", "QUALIFIER"],
                     "number": "ADDRNUM",
                     "street": "FULLNAME",
 
