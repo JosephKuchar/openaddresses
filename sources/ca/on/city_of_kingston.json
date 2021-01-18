@@ -22,22 +22,15 @@
                 "compression": "zip",
                 "conform": {
                     "format": "shapefile",
-                    "number": {
-                        "function": "format",
-                        "fields": [
-                            "address_number",
-                            "address_number_suffix"
-                        ],
-                        "format": "$1$2"
-                    },
+                    "number": "address_nu",
                     "street": "street",
                     "unit": "unit",
-                    "postcode": "postal_code",
-                    "city": "municipality",
+                    "postcode": "postal_cod",
+                    "city": "municipali",
 
-                    "str_name": "street_body_name",
-                    "str_type": "street_type_suffix",
-                    "str_dir": "direction_suffix"
+                    "str_name": "street_bod",
+                    "str_type": "street_typ",
+                    "str_dir": "direction_"
                 }
             }
         ]
