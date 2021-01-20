@@ -36,7 +36,6 @@
                     "street": "FULLSTREET",
                     "city": "MUNINAME",
                     
-                    "str_name": "STREETTYPEPRE",
                     "str_type": "STREETTYPE",
                     "str_dir": "STREETDIRSUFF",
                     "full_addr": "FULLSTREETNAME",
